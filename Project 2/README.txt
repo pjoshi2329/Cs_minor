@@ -4,5 +4,9 @@ on the command line and will then create three separate worker threads.
 One thread will determine the average of the numbers, the second will
 determine the maximum value, and the third will determine the minimum value
 
+Output on Ubuntu-
+When entered 4 numbers and 3 outputs were given
+
+
 
 credits for code -Jabirbn/
