@@ -6,6 +6,7 @@ determine the maximum value, and the third will determine the minimum value
 
 Output on Ubuntu-
 When entered 4 numbers and 3 outputs were given
+Attached image in project2 file
 
 
 
